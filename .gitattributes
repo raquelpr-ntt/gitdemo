@@ -1,2 +1,4 @@
-/mvnw text eol=lf
-*.cmd text eol=crlf
+
+# Usar LF para todos los archivos de texto
+* text=auto eol=lf
+
